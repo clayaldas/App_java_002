@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_java_002</string>
+
+    <string name="edittext_user_hint">Usuario</string>
+    <string name="edittext_password_hint">Clave</string>
+    <string name="button_ok_text">Aceptar</string>
+    <string name="button_finish_text">Finalizar</string>
+    <string name="button_browser_text">Navegador</string>
+    <string name="button_call_text">Llamar</string>
+    <string name="button_thirdactivity_text">Tercer activity</string>
+    <string name="textview_title_text">Lista de valores</string>
+
+</resources>
